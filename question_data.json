@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "question": "How might intelligent life evolve on a planet very different from Earth, and what kinds of environmental constraints would shape its sensory and cognitive systems?",
+      "ground_truth": "Life adapts its physiology and cognition to available energy sources and ecological pressures. Sensory and reasoning systems evolve to efficiently process information relevant to survival within that environment.",
+      "domains": ["Astrobiology", "Evolutionary Biology", "Neuroscience"],
+      "min_steps": 5,
+      "reasoning_targets": [
+        "Relate environmental features (light spectrum, atmosphere, gravity) to sensory design.",
+        "Link metabolic efficiency to ecological constraints.",
+        "Generalize evolutionary adaptation principles beyond Earth-based biochemistry."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Why do complex societies sometimes collapse rapidly after long periods of stability?",
+      "ground_truth": "Societal collapse often arises from coupled stresses—resource depletion, institutional rigidity, and feedback delays—that exceed the system’s adaptive capacity. Complexity can amplify fragility when energy and information costs grow unsustainably.",
+      "domains": ["History", "Complex Systems", "Economics"],
+      "min_steps": 5,
+      "reasoning_targets": [
+        "Identify multi-variable causal chains (resource, population, governance).",
+        "Integrate feedback loop reasoning (lag between stress and response).",
+        "Recognize nonlinearity and thresholds in complex adaptive systems."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What factors determine whether a new scientific theory replaces an older one?",
+      "ground_truth": "A theory overtakes its predecessor when it explains a wider range of phenomena with fewer assumptions, matches empirical data better, and fits within broader conceptual coherence. Social and cognitive factors also mediate acceptance.",
+      "domains": ["Philosophy of Science", "Sociology of Knowledge", "Cognitive Science"],
+      "min_steps": 4,
+      "reasoning_targets": [
+        "Differentiate empirical adequacy from paradigm fit.",
+        "Acknowledge scientific community dynamics and cognitive biases.",
+        "Model theory change as both evidential and social process."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "How can cooperation emerge and persist among self-interested agents in a competitive environment?",
+      "ground_truth": "Cooperation can evolve through mechanisms like repeated interaction, reciprocity, kin selection, and reputation systems that align individual incentives with group stability.",
+      "domains": ["Game Theory", "Evolutionary Biology", "Behavioral Economics"],
+      "min_steps": 4,
+      "reasoning_targets": [
+        "Introduce payoff matrices or social dilemmas (Prisoner’s Dilemma).",
+        "Propose mechanisms that stabilize cooperation.",
+        "Explore tradeoffs between short-term and long-term payoffs."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Why do people often believe misinformation even after being shown clear evidence against it?",
+      "ground_truth": "Because belief revision is constrained by cognitive biases, social identity, and emotional salience. Information is filtered through motivated reasoning and confirmation bias, so facts conflicting with identity are often rejected.",
+      "domains": ["Cognitive Psychology", "Sociology", "Information Science"],
+      "min_steps": 4,
+      "reasoning_targets": [
+        "Link cognition to identity and emotion.",
+        "Distinguish informational deficit vs. motivational bias.",
+        "Model belief updating as Bayesian but with non-rational priors."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Under what conditions does technological progress accelerate versus plateau over time?",
+      "ground_truth": "Technological progress accelerates when feedback between knowledge accumulation, communication, and capital investment forms a positive loop; it plateaus when diminishing returns, physical limits, or coordination bottlenecks dominate.",
+      "domains": ["Economics", "Innovation Studies", "Complex Systems"],
+      "min_steps": 5,
+      "reasoning_targets": [
+        "Relate knowledge spillover to network connectivity.",
+        "Model diminishing returns and resource constraints.",
+        "Explain transition from exponential to logistic growth regimes."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "How can consciousness arise from non-conscious physical processes?",
+      "ground_truth": "Consciousness likely emerges from integrative information processing across distributed networks with recursive self-modeling—when representations of internal and external states become causally efficacious.",
+      "domains": ["Neuroscience", "Philosophy of Mind", "Cognitive Science"],
+      "min_steps": 6,
+      "reasoning_targets": [
+        "Propose minimal physical or computational requirements.",
+        "Link information integration to subjective awareness.",
+        "Contrast competing models (global workspace, integrated information, higher-order)."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Why do financial bubbles form even when most participants know prices are unsustainably high?",
+      "ground_truth": "Because collective incentives and expectations cause coordination failures—each actor benefits from staying invested while others do, even knowing prices exceed fundamentals, leading to self-reinforcing dynamics until confidence breaks.",
+      "domains": ["Economics", "Behavioral Science", "Network Theory"],
+      "min_steps": 4,
+      "reasoning_targets": [
+        "Explain misalignment between private incentives and collective rationality.",
+        "Model expectation cascades or positive feedback in markets.",
+        "Connect coordination failure to crash dynamics."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What governs whether a language expands or disappears over time?",
+      "ground_truth": "Language survival depends on social power, transmission rate, and cultural prestige. When intergenerational transmission drops below a threshold, or dominant languages absorb speakers for economic or social reasons, decline accelerates.",
+      "domains": ["Linguistics", "Sociology", "Cultural Evolution"],
+      "min_steps": 4,
+      "reasoning_targets": [
+        "Identify demographic, institutional, and prestige factors.",
+        "Model feedback between speaker population and utility.",
+        "Explain thresholds of linguistic extinction."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Why do some ecosystems recover quickly from disturbances while others collapse permanently?",
+      "ground_truth": "Ecosystem resilience depends on diversity, redundancy, and network connectivity that buffer against shocks. When key species or functions are lost, feedback loops may shift the system into an alternative stable state.",
+      "domains": ["Ecology", "Complex Systems", "Environmental Science"],
+      "min_steps": 5,
+      "reasoning_targets": [
+        "Define resilience and tipping points.",
+        "Connect species diversity to system stability.",
+        "Explain hysteresis and multiple equilibria."
+      ]
+    }
+  ]
+  

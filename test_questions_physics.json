@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "question": "Why does adding renewable energy to a power grid sometimes *increase* instability, even though it reduces emissions?",
+      "ground_truth": "Because renewable sources like solar and wind are intermittent, they reduce grid inertia and make frequency control harder. Without sufficient storage or fast ramping backup, this variability amplifies short-term imbalances.",
+      "persona_focus": "Physicist",
+      "domains": ["Energy Systems", "Control Theory", "Economics"],
+      "min_steps": 5,
+      "reasoning_targets": [
+        "Relate grid stability to inertia and frequency response.",
+        "Identify variability of renewables as a systemic input fluctuation.",
+        "Introduce economic incentives for reliability and backup costs."
+      ],
+      "example_reasoning_path": [
+        "Step 1: Begin with intuition — renewables are cleaner but not constant.",
+        "Step 2: Recall that the power grid maintains frequency through synchronous inertia.",
+        "Step 3: Realize that solar/wind disconnect from physical inertia due to inverter interfaces.",
+        "Step 4: Hypothesize that low inertia means faster frequency swings under load mismatch.",
+        "Step 5: Conclude that variability plus insufficient control infrastructure leads to instability."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Why does traffic sometimes stop and start spontaneously, even with no accidents or lane closures?",
+      "ground_truth": "Because small fluctuations in driver reaction times or speeds can trigger nonlinear shockwaves that propagate backward through the flow — a self-organized instability in a dense system.",
+      "persona_focus": "Physicist",
+      "domains": ["Statistical Physics", "Complex Systems"],
+      "min_steps": 5,
+      "reasoning_targets": [
+        "Treat vehicles as particles in a flow system.",
+        "Introduce delayed feedback from reaction times.",
+        "Explain nonlinear amplification of local fluctuations."
+      ],
+      "example_reasoning_path": [
+        "Step 1: Start by noting uniform flow can be metastable.",
+        "Step 2: Imagine a driver brakes slightly — following cars overreact.",
+        "Step 3: The perturbation propagates backward like a wave.",
+        "Step 4: Recognize this as emergent behavior from delayed feedback.",
+        "Step 5: Conclude that traffic jams can arise purely from collective dynamics."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Why does the universe appear uniform on large scales even though small fluctuations existed after the Big Bang?",
+      "ground_truth": "Cosmic inflation expanded space exponentially, stretching out initial irregularities and making the observable universe homogeneous and isotropic, while leaving small quantum fluctuations as seeds for structure formation.",
+      "persona_focus": "Physicist",
+      "domains": ["Cosmology", "Relativity"],
+      "min_steps": 5,
+      "reasoning_targets": [
+        "Introduce early-universe fluctuations.",
+        "Explain inflation as rapid exponential expansion.",
+        "Connect quantum fluctuations to later structure."
+      ],
+      "example_reasoning_path": [
+        "Step 1: Recall the universe started hot and dense with slight density variations.",
+        "Step 2: Hypothesize that exponential expansion smoothed out irregularities.",
+        "Step 3: Note that inflation magnified quantum fluctuations into macroscopic ones.",
+        "Step 4: Relate to current uniformity observed in CMB.",
+        "Step 5: Conclude inflation explains both uniformity and structure seeds."
+      ]
+    }
+  ]
+  

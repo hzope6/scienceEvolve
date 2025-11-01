@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "question": "Why does printing more money not always make a country richer?",
+      "ground_truth": "Because increasing money supply without increasing output causes inflation, reducing the real value of currency."
+    },
+    {
+      "id": 2,
+      "question": "Why do governments sometimes subsidize industries that are not profitable?",
+      "ground_truth": "Because such industries may provide external benefits like jobs, innovation, or strategic stability that the market undervalues."
+    },
+    {
+      "id": 3,
+      "question": "Why does unemployment not fall to zero even in booming economies?",
+      "ground_truth": "Because of frictional and structural unemployment — workers take time to find jobs and some skills no longer match available work."
+    },
+    {
+      "id": 4,
+      "question": "Why do countries engage in trade even when they can produce everything themselves?",
+      "ground_truth": "Because comparative advantage allows specialization in goods with lower opportunity cost, increasing total efficiency."
+    },
+    {
+      "id": 5,
+      "question": "Why do price controls often lead to shortages?",
+      "ground_truth": "Because artificially low prices increase demand and discourage supply, creating excess demand."
+    },
+    {
+      "id": 6,
+      "question": "Why can high GDP growth coexist with rising inequality?",
+      "ground_truth": "Because income gains may accrue disproportionately to capital owners or skilled workers, widening distribution even as output expands."
+    },
+    {
+      "id": 7,
+      "question": "Why does deflation discourage spending and investment?",
+      "ground_truth": "Because falling prices make consumers delay purchases and increase real debt burdens, reducing demand."
+    },
+    {
+      "id": 8,
+      "question": "Why can tariffs harm the domestic economy even if they protect local jobs?",
+      "ground_truth": "Because they raise import costs, distort resource allocation, and provoke retaliation that reduces overall welfare."
+    },
+    {
+      "id": 9,
+      "question": "Why does education tend to increase economic productivity?",
+      "ground_truth": "Because it raises human capital, enabling workers to use technology more efficiently and innovate."
+    },
+    {
+      "id": 10,
+      "question": "Why can excessive government debt lead to inflation?",
+      "ground_truth": "Because financing deficits through money creation or low-interest borrowing increases aggregate demand beyond productive capacity."
+    },
+    {
+      "id": 11,
+      "question": "Why do housing prices tend to rise faster in cities than in rural areas?",
+      "ground_truth": "Because urban land is limited and demand is higher due to job opportunities and amenities, driving up prices."
+    },
+    {
+      "id": 12,
+      "question": "Why can lowering taxes sometimes *reduce* government revenue?",
+      "ground_truth": "Because the tax base may not expand enough to offset the rate cut, as shown by the Laffer curve concept."
+    },
+    {
+      "id": 13,
+      "question": "Why do central banks target a small positive inflation rate instead of zero?",
+      "ground_truth": "Because mild inflation encourages spending, prevents deflation traps, and allows real wage adjustments."
+    },
+    {
+      "id": 14,
+      "question": "Why does foreign direct investment often boost growth in developing countries?",
+      "ground_truth": "Because it brings capital, technology, and management expertise that raise productivity and employment."
+    },
+    {
+      "id": 15,
+      "question": "Why can short-term government stimulus reduce long-term growth if poorly designed?",
+      "ground_truth": "Because unsustainable debt or inefficient allocation can crowd out private investment and lower future productivity."
+    },
+    {
+      "id": 16,
+      "question": "Why does technological innovation sometimes lead to job losses?",
+      "ground_truth": "Because automation and productivity improvements reduce the need for certain tasks, displacing workers before new industries absorb them."
+    },
+    {
+      "id": 17,
+      "question": "Why do currency exchange rates fluctuate daily?",
+      "ground_truth": "Because they reflect continuous shifts in interest rates, trade balances, capital flows, and expectations about economic policy."
+    },
+    {
+      "id": 18,
+      "question": "Why can economic sanctions harm both the target and the imposing country?",
+      "ground_truth": "Because they disrupt trade networks and supply chains, reducing welfare for all participants."
+    },
+    {
+      "id": 19,
+      "question": "Why do markets sometimes experience bubbles and crashes?",
+      "ground_truth": "Because investor expectations can become self-reinforcing, pushing prices away from fundamentals until corrections occur."
+    },
+    {
+      "id": 20,
+      "question": "Why do monopolies lead to higher prices and lower output?",
+      "ground_truth": "Because monopolists restrict supply to maximize profit, producing where marginal cost is below price."
+    }
+  ]
+  

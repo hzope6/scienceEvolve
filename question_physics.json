@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "question": "Why does a satellite remain in orbit instead of falling to Earth?",
+      "ground_truth": "Because its tangential velocity balances gravitational pull, creating continuous free fall around Earth rather than toward it."
+    },
+    {
+      "id": 2,
+      "question": "Why does light bend when it passes from air into water?",
+      "ground_truth": "Because its speed changes due to differing optical densities, and the change in velocity direction is described by Snell’s law."
+    },
+    {
+      "id": 3,
+      "question": "Why does sound travel faster in steel than in air?",
+      "ground_truth": "Because particles in steel are more tightly bound, transmitting vibrational energy more efficiently than in the loose medium of air."
+    },
+    {
+      "id": 4,
+      "question": "Why does a spinning ice skater rotate faster when pulling in their arms?",
+      "ground_truth": "Because angular momentum is conserved, and reducing the radius decreases moment of inertia, increasing rotational speed."
+    },
+    {
+      "id": 5,
+      "question": "Why do objects in space appear weightless even though gravity still acts on them?",
+      "ground_truth": "Because they are in continuous free fall around Earth, experiencing the same acceleration as their surroundings."
+    },
+    {
+      "id": 6,
+      "question": "Why do stars twinkle but planets do not?",
+      "ground_truth": "Because starlight is a point source disturbed by atmospheric turbulence, while planets appear extended and average out those fluctuations."
+    },
+    {
+      "id": 7,
+      "question": "Why does a black car heat up faster than a white car in sunlight?",
+      "ground_truth": "Because black surfaces absorb more electromagnetic radiation while white reflects most wavelengths."
+    },
+    {
+      "id": 8,
+      "question": "Why do ice cubes float on water?",
+      "ground_truth": "Because water expands and becomes less dense when it freezes due to hydrogen bonding structure."
+    },
+    {
+      "id": 9,
+      "question": "Why is the sky dark at night despite countless stars in the universe?",
+      "ground_truth": "Because the universe is finite in age and expanding, so light from distant stars has not yet reached us or is redshifted beyond visibility."
+    },
+    {
+      "id": 10,
+      "question": "Why does boiling point decrease at higher altitudes?",
+      "ground_truth": "Because atmospheric pressure is lower, so water vapor can escape at lower temperatures."
+    },
+    {
+      "id": 11,
+      "question": "Why does a magnet lose its magnetism when heated above a certain temperature?",
+      "ground_truth": "Because thermal agitation disrupts alignment of magnetic domains beyond the Curie temperature."
+    },
+    {
+      "id": 12,
+      "question": "Why does stretching a rubber band make it warmer?",
+      "ground_truth": "Because stretching increases molecular alignment, reducing entropy and releasing internal energy as heat."
+    },
+    {
+      "id": 13,
+      "question": "Why does the Moon always show the same face to Earth?",
+      "ground_truth": "Because it has become tidally locked due to gravitational torques equalizing rotational and orbital periods."
+    },
+    {
+      "id": 14,
+      "question": "Why do lenses form images at specific focal lengths?",
+      "ground_truth": "Because curved surfaces refract parallel rays to a common point determined by geometry and refractive index."
+    },
+    {
+      "id": 15,
+      "question": "Why does a rainbow form after rainfall?",
+      "ground_truth": "Because sunlight is refracted, internally reflected, and dispersed through water droplets, separating colors by wavelength."
+    },
+    {
+      "id": 16,
+      "question": "Why do astronauts experience time more slowly than people on Earth?",
+      "ground_truth": "Because high velocity and weaker gravitational fields both cause time dilation as described by relativity."
+    },
+    {
+      "id": 17,
+      "question": "Why does electric current produce a magnetic field?",
+      "ground_truth": "Because moving charges create circular magnetic fields according to Ampère’s law and electromagnetic induction principles."
+    },
+    {
+      "id": 18,
+      "question": "Why does friction generate heat?",
+      "ground_truth": "Because microscopic surface interactions convert kinetic energy into random vibrational motion of atoms."
+    },
+    {
+      "id": 19,
+      "question": "Why does a pendulum’s period depend on its length but not its mass?",
+      "ground_truth": "Because the restoring force and inertia both scale with mass, which cancels out in the equations of motion."
+    },
+    {
+      "id": 20,
+      "question": "Why does lightning produce thunder?",
+      "ground_truth": "Because the rapid expansion of air heated by the lightning’s energy creates a shock wave that propagates as sound."
+    }
+  ]
+  
